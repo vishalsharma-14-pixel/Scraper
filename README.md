@@ -166,7 +166,9 @@ free tier. Watch memory limits on the Celery worker's free tier — a
 headless Chromium instance needs noticeably more RAM than the plain HTTP
 path, and very small free-tier containers may struggle with it.
 
-![Scraper Screenshot](./Screenshot.png)
+## Scraper
+
+![Scraper Screenshot](Screenshot.png)
 
 
  
