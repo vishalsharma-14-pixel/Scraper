@@ -169,5 +169,5 @@ path, and very small free-tier containers may struggle with it.
 
 # Scraper 
 
-![Scraper Screenshot](./screenshot.png)
+![Scraper Screenshot](./Screenshot.png)
  
