@@ -165,5 +165,8 @@ service tier, Postgres on Neon/Render's free tier, Redis on Upstash's
 free tier. Watch memory limits on the Celery worker's free tier — a
 headless Chromium instance needs noticeably more RAM than the plain HTTP
 path, and very small free-tier containers may struggle with it.
-#   S c r a p e r  
+#   S c r a p e r 
+ 
+
+![AI Document Intelligence Screenshot](./screenshot.png)
  
